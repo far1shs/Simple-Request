@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.startup
+package com.github.far1shs.simplerequest.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
